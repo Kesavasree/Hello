@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\algorithm(380,17): error C2064: term does not evaluate to a function taking 2 arguments
+F:\Practise\4.2.23\Prac25.3\Prac25.3\Source.cpp(10): message : see reference to function template instantiation '_FwdIt std::adjacent_find<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,int>(const _FwdIt,_FwdIt,_Pr)' being compiled
+          with
+          [
+              _FwdIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int>>>,
+              _Ty=int,
+              _Pr=int
+          ]
